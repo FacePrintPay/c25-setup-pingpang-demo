@@ -12,6 +12,6 @@ chmod +x setup_pingpang_demo.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/platform/setup_pingpang_demo.sh
+/data/data/com.termux/files/home/constellation25-mono/AiKre8tive-Stargate/platform/setup_pingpang_demo.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
